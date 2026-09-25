@@ -1,0 +1,11 @@
+# Compiled/Binary files
+out/
+*.class
+
+# Logs and temp files
+logs_congested.txt
+logs_fast_normal.txtnode_modules/
+.next/
+dist/
+build/
+*.log
